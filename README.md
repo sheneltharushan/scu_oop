@@ -1,3 +1,2 @@
-# scu_oop
-
-OOP ASSIGNMENT!!!!!!!!!
+# SCU OOP ASSIGNMENT
+-----------------------------------------
